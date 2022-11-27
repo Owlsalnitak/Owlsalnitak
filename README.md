@@ -2,8 +2,8 @@
 
 - 🔭 No momento não trabalho na área
 - 🌱 Sempre estudando novas tecnologias
-- 📫 Estudante de Ciências Da Computação
-- ⚡ Gosto de aprender coisas novas e interessante
+- 📫 Cursando de Ciências Da Computação
+
 
 <div align="center">
   <a href="https://github.com/Owlsalnitak">
