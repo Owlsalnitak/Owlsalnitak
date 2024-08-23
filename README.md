@@ -1,7 +1,7 @@
 ### Olá, Me chamo Maria Dayane! ✨
 
 - 🌱 Sempre estudando novas tecnologias
-- 📫 Cursando de Ciências Da Computação
+- 📫 Cursando Ciências Da Computação
 
 
 <div align="center">
