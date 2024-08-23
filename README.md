@@ -1,6 +1,5 @@
 ### Olá, Me chamo Maria Dayane! ✨
 
-- 🔭 No momento não trabalho na área
 - 🌱 Sempre estudando novas tecnologias
 - 📫 Cursando de Ciências Da Computação
 
